@@ -1,2 +1,2 @@
 # OOP_ThucHanh
-OOP Thuc Hanh 1
+OOP Thuc Hanh
