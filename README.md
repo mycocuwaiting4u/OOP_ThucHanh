@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/80f8c4ba-0af7-4711-b82d-e3c85c7b8116" />
-, I'm My</h1>
+<h1 align="center">Hi 🤗, I'm My</h1>
 <h3 align="center">handsome and bigMonster</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mycocuwaiting4u](https://github.com/mycocuwaiting4u)
