@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mycocuwaiting4u](https://github.com/mycocuwaiting4u)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://github.com/mycocuwaiting4u</h3>
 <p align="left">
 </p>
 
