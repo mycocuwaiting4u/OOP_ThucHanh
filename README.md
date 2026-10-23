@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🤗, I'm My</h1>
 <h3 align="center">handsome and bigMonster</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mycocuwaiting4u](https://github.com/mycocuwaiting4u)
 
 <h3 align="left">Connect with me: https://github.com/mycocuwaiting4u</h3>
 <p align="left">
